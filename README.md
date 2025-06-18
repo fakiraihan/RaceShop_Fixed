@@ -9,7 +9,7 @@ Build & Jalankan :
 
 Aplikasi dapat diakses pada alamat [http://localhost:1002](http://localhost:1002). Masukkan sembarang user dan password untuk login. 
 
-Misi :
+***Misi :***
 
 > Belilah item "Fancy Flag". 
 > Masalahnya adalah, saldo uang yang dimiliki hanya 20 dolar, sedangkan harga "Fancy Flag" 21 dolar. 
